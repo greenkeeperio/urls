@@ -1,5 +1,8 @@
 # urls
+
 > A simple docker container that redirects everything to `github.com`.
+
+This allows us to link to repos & issues in the pull requests we open, without issuing a notification at the other repo.
 
 ## Build
 
